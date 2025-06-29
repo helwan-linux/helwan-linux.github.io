@@ -1,0 +1,6 @@
+helwan-linux.github.io/
+├── index.html
+├── style.css
+├── bg2.png
+├── screenshot1.png (اختياري)
+├── helwan-linux-5.0.iso (رابط فقط، مش ضروري ترفعه هنا)
